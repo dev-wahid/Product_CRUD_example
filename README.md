@@ -9,7 +9,8 @@ JSON OBJECT and PATH:
     "quantity": 1
 }
 
-GET :http://localhost:8080/api/products
-POST :http://localhost:8080/api/products
-GET Single Product ://localhost:8080/api/products/{id}
+GET: http://localhost:8080/api/products
+POST: http://localhost:8080/api/products
+GET Single Product: http://localhost:8080/api/products/{id}
 Delete: http://localhost:8080/api/products/{id}
+PUT: http://localhost:8080/api/products/{id}
